@@ -6,9 +6,9 @@
 
 Files:
 
-* `arp_spoof.py` — ARP cache poisoning
-* `dns_spoof.py` — selective DNS spoofing (needs a targets list)
-* `traffic_interceptor.py` — packet capture/helpers
+* `scripts/arp_spoof.py` — ARP cache poisoning
+* `scripts/dns_spoof.py` — selective DNS spoofing (needs a targets list)
+* `scripts/traffic_interceptor.py` — packet capture/helpers
 * `pcap_files/` — packet capture files
 * `evidence/` — screenshots & other evidence
 
