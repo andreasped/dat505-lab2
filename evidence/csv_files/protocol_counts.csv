@@ -1,0 +1,5 @@
+protocol,count
+DNS,322
+UDP,322
+ARP,120
+TCP,76
