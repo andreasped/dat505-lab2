@@ -1,0 +1,6 @@
+# Domains to be spoofed (redirected to 192.168.128.2).
+# These must match the 'targets' loaded by the script.
+
+example.com
+server.lab
+www.server.lab
